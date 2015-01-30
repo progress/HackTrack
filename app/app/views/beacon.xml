@@ -1,0 +1,8 @@
+<Page loaded="pageLoaded">
+	<StackPanel>
+		<Label text="Please enter your iBeacon's ID (format shown below) and hit Continue." id="message"/>
+		<Label id="uuidFormat"/>
+		<TextField width="300" hint="UUID" id="uuid"/>
+		<Button text="Continue" id="continue"/>
+	</StackPanel>
+</Page>

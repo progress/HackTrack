@@ -1,0 +1,29 @@
+StackPanel {
+	margin: 25;
+}
+
+Button {
+	margin: 10;
+	font-size: 20;
+	height: 40;
+	width: 200;
+	color: #ffffff;
+	background-color: #00008B;
+}
+
+TextField {
+	font-size: 15;
+	margin: 3;
+	height: 25;
+}
+
+Label {
+	font-size: 20;
+	margin: 10;
+}
+
+TextView {
+	font-size: 15;
+	margin: 3;
+	height: 75;
+}

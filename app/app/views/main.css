@@ -1,0 +1,13 @@
+Label {
+	font-size: 17;
+	margin: 20;
+}
+
+Button {
+	font-size: 25;
+	margin: 7;
+	height: 43;
+	width: 250;
+	color: #ffffff;
+	background-color: #00008B;
+}

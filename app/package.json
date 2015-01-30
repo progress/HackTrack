@@ -1,0 +1,12 @@
+{
+    "name":"HackTrack",
+    "version":"0.0.1",
+    "description":"Experimenting with NativeScript",
+    "repository": {
+        "type":"git",
+        "url":"git://github.com/anistala/HackTrack.git"
+    },
+    "keywords":["nativescript","tns","appbuilder","telerik","mobile"],
+    "author":"Akhil Nistala",
+    "license":"Apache-2.0",
+}

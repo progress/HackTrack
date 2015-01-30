@@ -1,0 +1,47 @@
+Instructions.txt
+
+HackTrack2
+
+While building HackTrack, I used some sensitive data (email address, http authentication code, PostMark token) that new users must enter for themselves. Please follow the instructions below to do so.
+
+resources:
+	strings.js:
+		- Line 8: Enter your email address in email_sender, the same email must be registered on PostMark (note that public domain emails cannot be used)
+		- Line 39: Enter your PostMark token in postmark_token
+
+views:
+	beacon.js:
+		- Line 75: Enter your authentication code - same one must be used on the server side
+		- Line 78: Enter your Modulus URL (or wherever the server is being hosted)
+
+	editteam.js:
+		- Lines 66, 98: Enter your authentication code
+		- Lines 69, 101: Enter your Modulus URL
+
+	hack.js:
+		- Lines 66, 98: Enter your authentication code
+		- Lines 69, 101: Enter your Modulus URL
+
+	login.js:
+		- Lines 71, 110, 201: Enter your authentication code
+		- Lines 74, 113, 204: Enter your Modulus URL
+
+	main.js:
+		- Line 61: Enter your authentication code
+		- Line 64: Enter your Modulus URL
+
+	register.js:
+		- Lines 91, 150: Enter your authentication code
+		- Line 94, 153: Enter your Modulus URL
+
+	resetpass.js:
+		- Line 66: Enter your authentication code
+		- Line 69: Enter your Modulus URL
+
+	team.js:
+		- Line 99: Enter your authentication code
+		- Line 102: Enter your Modulus URL
+
+	teaminfo.js:
+		- Lines 61, 78: Enter your authentication code
+		- Lines 64, 81: Enter your Modulus URL

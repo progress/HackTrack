@@ -1,0 +1,11 @@
+<Page loaded="pageLoaded">
+	<StackPanel>
+		<Label text="Please enter a team name and up to four members." id="message"/>
+		<TextField width="200" hint="Team Name" id="teamname"/>
+		<TextField width="200" hint="Member 1" id="one"/>
+		<TextField width="200" hint="Member 2" id="two"/>
+		<TextField width="200" hint="Member 3" id="three"/>
+		<TextField width="200" hint="Member 4" id="four"/>
+		<Button text="Continue" id="continue"/>
+	</StackPanel>
+</Page>

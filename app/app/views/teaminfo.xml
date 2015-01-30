@@ -1,0 +1,6 @@
+<Page loaded="pageLoaded">
+	<ScrollView>
+		<StackPanel id="stackPanel">
+		</StackPanel>
+	</ScrollView>
+</Page>

@@ -1,0 +1,7 @@
+<Page loaded="pageLoaded">
+	<StackPanel>	
+		<Label text="Welcome"/>
+		<Button text="Login" click="login" id="login"/>
+		<Button text="Register" click="register" id="register"/>
+	</StackPanel>
+</Page>

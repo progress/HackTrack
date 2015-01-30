@@ -1,0 +1,23 @@
+#message {
+	font-size: 15;
+	margin: 20;
+}
+
+#uuidFormat {
+	font-size: 15;
+	text-align: center;
+}
+
+TextField {
+	font-size: 15;
+	margin: 20;
+}
+
+#continue {
+	font-size: 23;
+	margin: 10;
+}
+
+#signOut {
+	font-size: 17;
+}

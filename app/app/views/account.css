@@ -1,0 +1,12 @@
+StackPanel {
+	margin: 20;
+}
+
+Button {
+	font-size: 20;
+	margin: 10;
+	height: 40;
+	width: 200;
+	color: #ffffff;
+	background-color: #00008B;
+}

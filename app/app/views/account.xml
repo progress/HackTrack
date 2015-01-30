@@ -1,0 +1,7 @@
+<Page loaded="pageLoaded">
+	<StackPanel id="stackPanel">
+		<Button text="Add/Edit Hack" id="editHack" />
+		<Button text="Edit Team Info" id="editTeam" />
+		<Button text="Change Password" id="changePass" />
+	</StackPanel>
+</Page>

@@ -1,0 +1,9 @@
+<Page loaded="pageLoaded">
+	<StackPanel>
+		<Label text="Registration"/>
+		<TextField width="200" hint="EMAIL" id="email"/>
+		<TextField width="200" hint="PASSWORD" id="password" secure="true"/>
+		<TextField width="200" hint="RE-ENTER PASSWORD" id="reenter" secure="true"/>
+		<Button text="Register" id="register"/>
+	</StackPanel>
+</Page>

@@ -1,0 +1,22 @@
+StackPanel {
+	margin: 20;
+}
+
+Label {
+	text-align: center;
+	font-size: 25;
+	margin: 20;
+}
+
+TextField {
+	font-size: 17;
+	margin: 15;
+}
+
+#login {
+	font-size: 23;
+}
+
+#recover {
+	font-size: 15;
+}
