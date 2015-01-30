@@ -1,3 +1,10 @@
+//
+// regex.js
+// HackTrack
+//
+// Copyright 2015 (c) Progress Software
+// Author: Akhil Nistala
+
 exports.email_re = function() {
 	return /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
 }
