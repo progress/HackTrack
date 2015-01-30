@@ -1,3 +1,11 @@
+<!--
+// editteam.xml
+// HackTrack
+//
+// Copyright 2015 (c) Progress Software
+// Author: Akhil Nistala
+-->
+
 <Page loaded="pageLoaded">
 	<StackPanel id="stackPanel">
 	</StackPanel>
