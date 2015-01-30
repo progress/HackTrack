@@ -9,6 +9,7 @@ To run this application on your device, please follow the steps below:
 <li> Follow the instructions in the instructions.txt file to prepare the code </li>
 <li> In your command line, run 'tns create HackTrack' in a desired location </li>
 <li> Replace the entire inner app folder of the folder you just created with the app folder of this repo </li>
-<li> Run 'tns list-devices' in your command line and make sure your phone is recognized </li>
+<li> Run 'tns platform add ios' </li>
+<li> Run 'tns list-devices' and make sure your phone is recognized </li>
 <li> Run 'tns run ios' to prepare, build, and deploy the app to your device </li>
 </ol>
