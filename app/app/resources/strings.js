@@ -5,7 +5,7 @@ exports.email_confirm = function() {
 }
 
 exports.email_sender = function() {
-	// Enter an email address here (same one must be registered on PostMark)sii
+	// Enter an email address here (same one must be registered on PostMark)
 }
 
 exports.email_subject = function() {
