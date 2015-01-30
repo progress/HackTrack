@@ -1,3 +1,11 @@
+<!--
+// beacon.xml
+// HackTrack
+//
+// Copyright 2015 (c) Progress Software
+// Author: Akhil Nistala
+-->
+
 <Page loaded="pageLoaded">
 	<StackPanel>
 		<Label text="Please enter your iBeacon's ID (format shown below) and hit Continue." id="message"/>
