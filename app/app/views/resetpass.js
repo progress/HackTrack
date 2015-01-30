@@ -1,3 +1,11 @@
+/*
+// resetpass.js
+// HackTrack
+//
+// Copyright 2015 (c) Progress Software
+// Author: Akhil Nistala
+*/
+
 var frameModule = require("ui/frame");
 var applicationModule = require("application");
 var view = require("ui/core/view");
