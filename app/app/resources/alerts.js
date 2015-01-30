@@ -1,3 +1,10 @@
+//
+// alerts.js
+// HackTrack
+//
+// Copyright 2015 (c) Progress Software
+// Author: Akhil Nistala
+
 exports.secure_password = function() {
 	var line1 = "Please enter a secure password:          \n";
 	var line2 = "- At least 8 characters                  \n";
