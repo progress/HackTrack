@@ -1,3 +1,10 @@
+//
+// strings.js
+// HackTrack
+//
+// Copyright 2015 (c) Progress Software
+// Author: Akhil Nistala
+
 exports.email_confirm = function() {
 	var line1 = "A confirmation code has been sent to your email.";
 	var line2 = " Please enter it below and hit okay.";
