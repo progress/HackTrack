@@ -1,3 +1,11 @@
+<!--
+// team.xml
+// HackTrack
+//
+// Copyright 2015 (c) Progress Software
+// Author: Akhil Nistala
+-->
+
 <Page loaded="pageLoaded">
 	<StackPanel>
 		<Label text="Please enter a team name and up to four members." id="message"/>
