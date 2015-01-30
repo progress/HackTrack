@@ -1,3 +1,11 @@
+/*
+// beacon.js
+// HackTrack
+//
+// Copyright 2015 (c) Progress Software
+// Author: Akhil Nistala
+*/
+
 var view = require("ui/core/view");
 var uidialogs = require("ui/dialogs");
 var http = require("http");
