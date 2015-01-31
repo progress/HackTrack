@@ -32,7 +32,7 @@ views:
 
 	register.js:
 		- Lines 91, 150: Enter your authentication code
-		- Line 94, 153: Enter your Modulus URL
+		- Lines 94, 153: Enter your Modulus URL
 
 	resetpass.js:
 		- Line 66: Enter your authentication code
