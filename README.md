@@ -7,7 +7,7 @@ To run this application on your device, please follow the steps below:
 <li> Make sure you have NativeScript CLI (https://github.com/NativeScript/nativescript-cli) </li>
 <li> Clone this repository or download the zip </li>
 <li> Follow the instructions in the instructions.txt file to prepare the code </li>
-<li> In your command line, run 'tns create HackTrack' in a desired location </li>
+<li> In your command line, run 'tns create HackTrack' in a desired directory </li>
 <li> Replace the entire inner app folder of the folder you just created with the app folder of this repo </li>
 <li> Run 'tns platform add ios' </li>
 <li> Run 'tns list-devices' and make sure your phone is recognized </li>
