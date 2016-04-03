@@ -13,3 +13,7 @@ To run this application on your device, please follow the steps below:
 <li> Run 'tns list-devices' and make sure your phone is recognized </li>
 <li> Run 'tns run ios' to prepare, build, and deploy the app to your device </li>
 </ol>
+
+Author: Akhil Nistala  
+Project: January 2015 Internship at Progress, Palo Alto, California  
+Mentor: Eduardo Pelegri-Llopart  
